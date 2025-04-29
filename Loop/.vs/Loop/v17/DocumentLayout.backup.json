@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\InputError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\InputError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Seats.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\Seats.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Continue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\Continue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\SumOver100.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\SumOver100.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\NestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\NestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Gugudan2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\Gugudan2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\NestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\NestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\SumOver100.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\SumOver100.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Continue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\Continue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\InputError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|solutionrelative:Loop\\InputError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83D436E3-6E77-4B52-B8DD-5DB2DC5A2FB7}|Loop\\Loop.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Gugudan.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -51,19 +55,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Seats.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Seats.c",
+              "RelativeDocumentMoniker": "Loop\\Seats.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Seats.c",
+              "RelativeToolTip": "Loop\\Seats.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T10:47:49.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NestedFor.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\NestedFor.c",
+              "RelativeDocumentMoniker": "Loop\\NestedFor.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\NestedFor.c",
+              "RelativeToolTip": "Loop\\NestedFor.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAQwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-24T11:37:35.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "InputError.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\InputError.c",
               "RelativeDocumentMoniker": "Loop\\InputError.c",
               "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\InputError.c",
               "RelativeToolTip": "Loop\\InputError.c",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwBsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-24T12:36:49.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Continue.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Continue.c",
               "RelativeDocumentMoniker": "Loop\\Continue.c",
@@ -71,23 +101,25 @@
               "RelativeToolTip": "Loop\\Continue.c",
               "ViewState": "AgIAAAsAAAAAAAAAAAAkwA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-24T12:24:46.476Z"
+              "WhenOpened": "2025-04-24T12:24:46.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SumOver100.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\SumOver100.c",
               "RelativeDocumentMoniker": "Loop\\SumOver100.c",
               "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\SumOver100.c",
               "RelativeToolTip": "Loop\\SumOver100.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-24T12:12:02.729Z"
+              "WhenOpened": "2025-04-24T12:12:02.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Gugudan2.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Gugudan2.c",
               "RelativeDocumentMoniker": "Loop\\Gugudan2.c",
@@ -95,23 +127,12 @@
               "RelativeToolTip": "Loop\\Gugudan2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-24T11:44:55.546Z"
+              "WhenOpened": "2025-04-24T11:44:55.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NestedFor.c",
-              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\NestedFor.c",
-              "RelativeDocumentMoniker": "Loop\\NestedFor.c",
-              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\NestedFor.c",
-              "RelativeToolTip": "Loop\\NestedFor.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-24T11:37:35.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Gugudan.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\Gugudan.c",
               "RelativeDocumentMoniker": "Loop\\Gugudan.c",
@@ -123,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ForEx1.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\ForEx1.c",
               "RelativeDocumentMoniker": "Loop\\ForEx1.c",
@@ -135,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DoWhileEx2.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\DoWhileEx2.c",
               "RelativeDocumentMoniker": "Loop\\DoWhileEx2.c",
@@ -147,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DoWhileEx1.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Loop\\Loop\\DoWhileEx1.c",
               "RelativeDocumentMoniker": "Loop\\DoWhileEx1.c",

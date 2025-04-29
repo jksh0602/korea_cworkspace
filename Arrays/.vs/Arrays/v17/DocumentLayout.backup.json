@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayDel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayDel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\MemberInfo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\MemberInfo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayDel.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayDel.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayDel.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayDel.c",
+              "RelativeToolTip": "Arrays\\ArrayDel.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T12:42:29.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberInfo.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\MemberInfo.c",
+              "RelativeDocumentMoniker": "Arrays\\MemberInfo.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\MemberInfo.c",
+              "RelativeToolTip": "Arrays\\MemberInfo.c",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T12:23:17.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayString.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayString.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayString.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayString.c",
+              "RelativeToolTip": "Arrays\\ArrayString.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T11:49:16.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayChar.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayChar.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayChar.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayChar.c",
+              "RelativeToolTip": "Arrays\\ArrayChar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T11:34:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayInt.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayInt.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayInt.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayInt.c",
+              "RelativeToolTip": "Arrays\\ArrayInt.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T11:16:09.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
