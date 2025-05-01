@@ -1,0 +1,3 @@
+﻿  findMax.c
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\findMax.c(8,12): warning C4013: 'findMax'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Functions.vcxproj -> C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\x64\Debug\Functions.exe

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArraySwap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArraySwap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayClac2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayClac2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayDel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB218630-4B79-4160-B5F2-F14281113FCA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayDel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +55,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayTest.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayTest.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayTest.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayTest.c*",
+              "RelativeToolTip": "Arrays\\ArrayTest.c*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T11:32:49.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArraySwap.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArraySwap.c",
+              "RelativeDocumentMoniker": "Arrays\\ArraySwap.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArraySwap.c",
+              "RelativeToolTip": "Arrays\\ArraySwap.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T11:22:24.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayCopy.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayCopy.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayCopy.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayCopy.c",
+              "RelativeToolTip": "Arrays\\ArrayCopy.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T11:00:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayClac2.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayClac2.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayClac2.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayClac2.c",
+              "RelativeToolTip": "Arrays\\ArrayClac2.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T10:22:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayCalc.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayCalc.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayCalc.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayCalc.c",
+              "RelativeToolTip": "Arrays\\ArrayCalc.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T10:08:48.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ArrayDel.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayDel.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayDel.c",
               "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayDel.c",
               "RelativeToolTip": "Arrays\\ArrayDel.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-29T12:42:29.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MemberInfo.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\MemberInfo.c",
               "RelativeDocumentMoniker": "Arrays\\MemberInfo.c",
@@ -55,12 +140,11 @@
               "RelativeToolTip": "Arrays\\MemberInfo.c",
               "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T12:23:17.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T12:23:17.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ArrayString.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayString.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayString.c",
@@ -68,12 +152,11 @@
               "RelativeToolTip": "Arrays\\ArrayString.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T11:49:16.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T11:49:16.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ArrayChar.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayChar.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayChar.c",
@@ -81,12 +164,11 @@
               "RelativeToolTip": "Arrays\\ArrayChar.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T11:34:46.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T11:34:46.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ArrayInt.c",
               "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Arrays\\Arrays\\ArrayInt.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayInt.c",
@@ -94,8 +176,7 @@
               "RelativeToolTip": "Arrays\\ArrayInt.c",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwCMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T11:16:09.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T11:16:09.318Z"
             }
           ]
         }

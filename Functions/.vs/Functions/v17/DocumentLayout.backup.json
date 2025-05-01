@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63D20A-2CEB-4ADE-A353-A48C469D5892}|Functions\\Functions.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE63D20A-2CEB-4ADE-A353-A48C469D5892}|Functions\\Functions.vcxproj|solutionrelative:Functions\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63D20A-2CEB-4ADE-A353-A48C469D5892}|Functions\\Functions.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\returnFuction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE63D20A-2CEB-4ADE-A353-A48C469D5892}|Functions\\Functions.vcxproj|solutionrelative:Functions\\returnFuction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63D20A-2CEB-4ADE-A353-A48C469D5892}|Functions\\Functions.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE63D20A-2CEB-4ADE-A353-A48C469D5892}|Functions\\Functions.vcxproj|solutionrelative:Functions\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "findMax.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\findMax.c",
+              "RelativeDocumentMoniker": "Functions\\findMax.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\findMax.c",
+              "RelativeToolTip": "Functions\\findMax.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T12:42:53.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "returnFuction.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\returnFuction.c",
+              "RelativeDocumentMoniker": "Functions\\returnFuction.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\returnFuction.c",
+              "RelativeToolTip": "Functions\\returnFuction.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T12:25:37.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SayHello.c",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\SayHello.c",
+              "RelativeDocumentMoniker": "Functions\\SayHello.c",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\cworks\\Functions\\Functions\\SayHello.c",
+              "RelativeToolTip": "Functions\\SayHello.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T12:10:50.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
