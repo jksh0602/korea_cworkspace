@@ -12,17 +12,47 @@ int main()
 	printf("%d\n", rndVal);*/
 
 	//동전(2가지 경우)
-	int coin = rand() % 2;		//0, 1
-	printf("%d\n", coin);
+	//int coin = rand() % 2;		//0, 1
+	//printf("동전 = %d\n", coin);
 
-	//앞면 - 0, 뒷면 - 1
-	if (coin % 2 == 0)
+	////앞면 - 0, 뒷면 - 1
+	//if (coin % 2 == 0)
+	//{
+	//	printf("앞면\n");
+	//}
+	//else
+	//{
+	//	printf("뒷면\n");
+	//}
+
+	//가위바위보 출력
+	/*int num = rand() % 3;
+	printf("가위바위보 = %d\n", num);
+	
+	switch (num)
 	{
-		printf("앞면\n");
-	}
-	else
+	case 0:
+		printf("가위\n");
+		break;
+	case 1:
+		printf("바위\n");
+		break;
+	case 2:
+		printf("보\n");
+		break;
+	default:
+		printf("없음\n");
+		break;
+	}*/
+
+	//주사위의 눈(1 ~ 6)
+	int dice = rand() % 6 + 1;
+	printf("주사위 = %d\n", dice);
+
+	for (int i = 0; i < 10; i++)
 	{
-		printf("뒷면\n");
+		dice = rand() % 6 + 1;
+		printf("%d\n", dice);
 	}
 
 	return 0;
