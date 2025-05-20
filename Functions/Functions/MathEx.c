@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>	//round(), floor()
+#include <math.h>	//round(), floor(), ceil(), abs(), pow()
 /*
 	수학 관련 함수 - math.h 포함
 */

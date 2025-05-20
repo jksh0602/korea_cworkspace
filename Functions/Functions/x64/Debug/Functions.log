@@ -1,11 +1,11 @@
-﻿  Array2DString.c
-C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\Array2DString.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-      C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\Array2DString.c(28,9):
+﻿  StringFunctions.c
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\StringFunctions.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\StringFunctions.c(15,9):
       서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
   
-C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\Array2DString.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-      C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\Array2DString.c(28,9):
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\StringFunctions.c(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\StringFunctions.c(16,9):
       서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
   
-C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\Array2DString.c(39,27): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\Functions\StringFunctions.c(13,7): warning C4101: 'msg3' :참조되지 않은 지역 변수입니다.
   Functions.vcxproj -> C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Functions\x64\Debug\Functions.exe
