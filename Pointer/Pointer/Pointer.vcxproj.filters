@@ -51,10 +51,22 @@
     <ClCompile Include="CalcSum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="swap.c">
+    <ClCompile Include="Swap.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcSum2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMax.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMaxIdx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RandCoin.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

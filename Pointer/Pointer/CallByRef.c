@@ -4,6 +4,7 @@
 */
 int callByVal(int n);
 int callByRef(int* p);
+
 int main()
 {
 	int num = 10;

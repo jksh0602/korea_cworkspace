@@ -2,6 +2,7 @@
 
 void func1(int i, int j);
 void func2(int* i, int* j);
+
 int main()
 {
 	int a = 3, b = 12;

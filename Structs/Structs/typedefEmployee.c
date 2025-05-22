@@ -3,15 +3,9 @@
 #include <stdlib.h>
 
 typedef struct {
-	int id;				//사원 ID
-	char name[20];		//사원 이름
-	int salary;			//급여
-}Point;
-
-typedef struct {
-	Point e1;
-	Point e2;
-	Point e3;
+	int id;				// 사원 ID
+	char name[20];		// 사원 이름
+	int salary;			// 급여
 } Employee;
 
 int main()
@@ -23,15 +17,15 @@ int main()
 	printf("사원 이름: %d\n", e1.name);
 	printf("사원 급여: %d\n", e1.salary);*/
 
-	Employee e = {
-		.e1 = {1,"이사원", 30000000},
-		.e2 = {2,"이원사", 40000000},
-		.e3 = {3,"이사우", 50000000}
+	Employee e[3] = {
+		{1,"이사원", 30000000},
+		{2,"김사원", 40000000},
+		{3,"박사원", 50000000}
 	};
 
-	for (int i = 0; i < 2; i++)
+	for (int i = 0; i < 3; i++)
 	{
-		printf("ID: %d, 이름: %s, 급여: %d\n", e[i].e1);
+		printf("ID: %d, 이름: %s, 급여: %d\n", e[i].id, e[i].name, e[i].salary);
 	}
 
 	return 0;
