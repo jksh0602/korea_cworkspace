@@ -9,7 +9,6 @@ int main()
 	struct tm* now = localtime(&ct);	//현재 날짜와 시간 생성
 
 	printf("현재 날짜 : %d년 %d월 %d일\n", now->tm_year + 1900, now->tm_mon + 1, now->tm_mday);
-
 	printf("현재 시간 : %d시 %d분 %d초\n", now->tm_hour, now->tm_min, now->tm_sec);
 
 	//12시각제

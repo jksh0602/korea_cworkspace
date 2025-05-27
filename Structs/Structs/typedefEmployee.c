@@ -1,7 +1,6 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <stdlib.h>
 
+//Employee(사원) 구조체 정의
 typedef struct {
 	int id;				// 사원 ID
 	char name[20];		// 사원 이름
