@@ -21,5 +21,14 @@
     <ClCompile Include="mallocEx2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MallocChar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strtokEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TypingGame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

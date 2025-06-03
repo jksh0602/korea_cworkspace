@@ -1,2 +1,8 @@
-﻿  StructHero.c
+﻿  structMalloc1.c
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Structs\Structs\structMalloc1.c(34,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Structs\Structs\structMalloc1.c(34,20): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Structs\Structs\structMalloc1.c(39,26): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Structs\Structs\structMalloc1.c(39,26): warning C4566: 유니버설 문자 이름 '\u06B4'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Structs\Structs\structMalloc1.c(44,26): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Structs\Structs\structMalloc1.c(44,26): warning C4566: 유니버설 문자 이름 '\u0470'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
   Structs.vcxproj -> C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\Structs\x64\Debug\Structs.exe
