@@ -1,3 +1,2 @@
-﻿  ImageCopy.c
-C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\FileIO\FileIO\ImageCopy.c(22,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  asciiRead１.c
   FileIO.vcxproj -> C:\Users\jksh0\OneDrive\바탕 화면\폴더\cworks\FileIO\x64\Debug\FileIO.exe

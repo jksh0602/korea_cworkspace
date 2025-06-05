@@ -7,7 +7,7 @@ int main() {
 	int ch;	//아스키 코드를 읽어 저장할 변수
 
 	//상대 경로 - 내 파일을 기준으로 위치를 정함
-	fp = fopen("c:/cfile/ascii.txt", "r");
+	fp = fopen("ascii.txt", "r");
 	if (fp == NULL) {
 		printf("파일 열기에 실패함\n");
 		return 1;

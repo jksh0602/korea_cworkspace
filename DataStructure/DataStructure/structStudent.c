@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 typedef struct {
-	int number;
+	int number;	//ÇĞ¹ø
 }Student;
 
 int main()
@@ -28,9 +28,10 @@ int main()
 	for (i = 1; i < 9; i++) {
 		s[i].number = s[i + 1].number;
 	}
+	s[9].number = 0;
 	printf("\n");
 
-	for (i = 0; i < 9; i++) {
+	for (i = 0; i < 10; i++) {
 		printf("%d ", s[i].number);
 	}
 

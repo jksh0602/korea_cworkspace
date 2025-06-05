@@ -55,8 +55,7 @@
               "RelativeToolTip": "DynamicAllocation\\strtokEx.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-02T07:39:25.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T07:39:25.08Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "DynamicAllocation\\MallocChar.c",
               "ViewState": "AgIAACEAAAAAAAAAAADwvzYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-02T07:39:02.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T07:39:02.847Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "DynamicAllocation\\mallocEx2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-27T11:07:40.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:07:40.845Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "DynamicAllocation\\mallocEx.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-27T10:42:56.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T10:42:56.851Z"
             }
           ]
         },
@@ -106,6 +102,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

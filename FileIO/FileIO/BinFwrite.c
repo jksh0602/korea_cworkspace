@@ -14,7 +14,7 @@ int main()
 	FILE* fp;
 
 	//쓰기 모드 - "wb"
-	fp = fopen("c:/cfile/datas.dat", "wb");
+	fp = fopen("datas.dat", "wb");
 	if (fp == NULL) {
 		printf("파일 열기에 실패함\n");
 		return 1;

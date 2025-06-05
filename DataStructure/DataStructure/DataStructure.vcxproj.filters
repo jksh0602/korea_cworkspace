@@ -21,7 +21,31 @@
     <ClCompile Include="QueueEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="structStudent.c">
+    <ClCompile Include="StructStudent.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ToggleEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RescursiceEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintBin.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SortEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SortBubble.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SequentialEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

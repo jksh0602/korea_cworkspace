@@ -5,7 +5,7 @@ int main() {
 
 	FILE* fp;
 
-	fopen_s(&fp, "c:/cfile/gugudan.txt", "w");
+	fopen_s(&fp, "gugudan.txt", "w");
 	if (fp == NULL) {
 		perror("파일 열기에 실패함\n");
 		return 1;
@@ -21,7 +21,7 @@ int main() {
 	fclose(fp);
 
 	//파일 읽기 - fgets() 이용
-	fopen_s(&fp, "c:/cfile/gugudan.txt", "r");
+	fopen_s(&fp, "gugudan.txt", "r");
 	if (fp == NULL) {
 		printf("파일 열기에 실패함 \n");
 		return 1;
