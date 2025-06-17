@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{593731D1-4EA9-4CEC-B4BD-FFB47EBA816C}|ChoiceRepeat\\ChoiceRepeat.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593731D1-4EA9-4CEC-B4BD-FFB47EBA816C}|ChoiceRepeat\\ChoiceRepeat.vcxproj|solutionrelative:ChoiceRepeat\\forEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593731D1-4EA9-4CEC-B4BD-FFB47EBA816C}|ChoiceRepeat\\ChoiceRepeat.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593731D1-4EA9-4CEC-B4BD-FFB47EBA816C}|ChoiceRepeat\\ChoiceRepeat.vcxproj|solutionrelative:ChoiceRepeat\\keyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593731D1-4EA9-4CEC-B4BD-FFB47EBA816C}|ChoiceRepeat\\ChoiceRepeat.vcxproj|C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593731D1-4EA9-4CEC-B4BD-FFB47EBA816C}|ChoiceRepeat\\ChoiceRepeat.vcxproj|solutionrelative:ChoiceRepeat\\ifEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 462,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "forEx.cpp",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\forEx.cpp",
+              "RelativeDocumentMoniker": "ChoiceRepeat\\forEx.cpp",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\forEx.cpp",
+              "RelativeToolTip": "ChoiceRepeat\\forEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T12:48:39.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "keyRepeat.cpp",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\keyRepeat.cpp",
+              "RelativeDocumentMoniker": "ChoiceRepeat\\keyRepeat.cpp",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\keyRepeat.cpp",
+              "RelativeToolTip": "ChoiceRepeat\\keyRepeat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T12:39:42.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ifEx.cpp",
+              "DocumentMoniker": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\ifEx.cpp",
+              "RelativeDocumentMoniker": "ChoiceRepeat\\ifEx.cpp",
+              "ToolTip": "C:\\Users\\jksh0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3F4\uB354\\c\u002B\u002Bworks\\ChoiceRepeat\\ChoiceRepeat\\ifEx.cpp",
+              "RelativeToolTip": "ChoiceRepeat\\ifEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T12:28:30.785Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
