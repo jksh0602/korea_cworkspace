@@ -15,34 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArrayInt.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayChar.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayString.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="MemberInfo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayDel.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayCalc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayClac2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayCopy.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArraySwap.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ArrayTest.c">
+    <ClCompile Include="stringArry.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
